@@ -7,3 +7,6 @@
 [submodule "api-products"]
 	path = api-products
 	url = https://github.com/ms-food/product-ms.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/ms-food/payments-ms.git
